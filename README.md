@@ -79,7 +79,7 @@ The script is divided into several parts:
 The generated GIF file `Animation.gif` demonstrates the transition of points from a random state to an organized structure using Brownian motion.
 
 ## Acknowledgements
-This project was created by Adnan Mahmud from Zuse Institute Berlin. The code and concept were developed to demonstrate the transformation of points using Brownian motion, showcasing an emergent modernity from a traditional random state to a structured form.
+This project was created by Adnan Mahmud from Zuse Institute Berlin. 
 
 ## License
 This project is licensed under the MIT License. You are free to use, modify, and distribute this software as long as the original author is credited.
