@@ -72,7 +72,8 @@ The script is divided into several parts:
     The main function sets up the plot, initializes the scatter plot and traces, configures the legend and axis properties, and calls the animation function to create the GIF. It also ensures the layout is adjusted to fit the legend below the x-axis.
 
 ## Demonstration
-The generated GIF file `EM_102.gif` demonstrates the transition of points from a random state to an organized structure using Brownian motion. The animation starts with a 3-second pause on the initial configuration, showing the randomly placed yellow points. As the animation progresses, the points move in a random path influenced by Brownian motion, changing color from yellow to green. Blue traces indicate the path of each point, representing "Modernity". The animation ends with a 3-second pause on the final configuration, displaying the emergent modern structure.
+The generated GIF file `Animation.gif` demonstrates the transition of points from a random state to an organized structure using Brownian motion. The animation starts with a 3-second pause on the initial configuration, showing the randomly placed yellow points. As the animation progresses, the points move in a random path influenced by Brownian motion, changing color from yellow to green. Blue traces indicate the path of each point, representing "Modernity". The animation ends with a 3-second pause on the final configuration, displaying the emergent modern structure.
+![Animation](https://github.com/Adnan1729/Emergent_Modernity/assets/70011012/8354e2e3-6d1b-4fdb-9ad2-eee6f9aa518c)
 
 ## Acknowledgements
 This project was created by Adnan Mahmud from Zuse Institute Berlin. The code and concept were developed to demonstrate the transformation of points using Brownian motion, showcasing an emergent modernity from a traditional random state to a structured form.
